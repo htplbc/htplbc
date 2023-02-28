@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Golang<br>💬 Ask me about Kubernetes and Terraform<br>📫 How to reach me htplbc@gmail.com
+🌱 I’m currently learning Golang<br>💬 Ask me about CI/CD, Kubernetes and Terraform<br>📫 How to reach me htplbc@gmail.com
 
 
 ## 🌐 Socials:
