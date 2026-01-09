@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Ollama<br>💬 Ask me about CI/CD, Kubernetes, Terraform, and Backstage<br>📫 How to reach me htplbc@gmail.com
+🌱 I’m currently learning ...<br>💬 Ask me about CI/CD, Kubernetes, Terraform, Backstage and AI<br>📫 How to reach me htplbc@gmail.com
 
 
 ## 🌐 Socials:
